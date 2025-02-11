@@ -87,7 +87,7 @@ $ python TrainImprove.py
 ### 4. **Run the Streamlit Application**
 
 ```bash
-$ streamlit run final.py
+$ python -m streamlit run ml-st.py 
 ```
 
 ### 5. **Access the App**
