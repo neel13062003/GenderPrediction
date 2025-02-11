@@ -10,10 +10,7 @@ This project uses a **Neural Network** model trained on **TF-IDF vectors** of na
 
 ## 📸 **Application Screenshot**
 
-## 
-<a href="https://ibb.co/JjhspDnr">
-  <img src="https://i.ibb.co/JjhspDnr/Screenshot-2025-02-11-222451.png" alt="Application Screenshot" border="0" />
-</a>
+## <a href="https://ibb.co/JjhspDnr"><img src="https://i.ibb.co/ZzZMgqdc/Screenshot-2025-02-11-231313.png" alt="Screenshot-2025-02-11-231313" border="0" /></a>
 
 ## 🛠 **How It Works (End-to-End)**
 
