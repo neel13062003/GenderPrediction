@@ -45,7 +45,7 @@ This project uses a **Neural Network** model trained on **TF-IDF vectors** of na
 ```
 .
 ├── TrainImprove.py          # Training script for the model
-├── final.py                 # Streamlit app for gender prediction
+├── ml-st1.py                 # Streamlit app for gender prediction
 ├── gender.xlsx              # Dataset with names and gender
 ├── gender_prediction_model_Improve.h5  # Saved Keras model
 ├── tfidf_vectorizer_Improve.joblib     # Saved TF-IDF vectorizer
