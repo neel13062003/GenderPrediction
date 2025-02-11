@@ -8,7 +8,7 @@ This project uses a **Neural Network** model trained on **TF-IDF vectors** of na
 ---
 
 ## 📸 **Application Screenshot**
-<a href="https://ibb.co/7JMfmKPp"><img src="https://i.ibb.co/Y7nCshmd/Screenshot-2025-02-11-222451.png" alt="Screenshot-2025-02-11-222451" border="0" /></a>
+<a href="https://www.imghippo.com/i/RfRF9586AY.png"><img src="https://www.imghippo.com/i/RfRF9586AY.png" alt="Screenshot-2025-02-11-222451" border="0" /></a>
 ---
 
 ## 🛠 **How It Works (End-to-End)**
