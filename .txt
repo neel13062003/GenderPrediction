@@ -2,6 +2,6 @@
 
 
 1) WE HAVE DATA OF MALE FEMALE  LABEL
-2) THEN WE TRAIN.PY where we  train our data & from that  we build
+2) THEN WE TrainImprove.py where we  train our data & from that  we build
 - gender_prediction_model_onLarge.h5 and  tfidf_vectorizer_onLarge.joblib file 
 3) ml-st1.py ( streamlit ) provide user interface  &  use that model and  tfdif vector for gender verfication.
